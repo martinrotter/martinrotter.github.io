@@ -1,0 +1,11 @@
+- title: Blog
+  url: /blog
+- title: About
+  url: /about
+- title: Contact
+  url: /contact
+- title: Github
+  url: https://github.com/AJAlabs/jekyllkb
+  external: true
+- title: Knowledge Base
+  url: /kb

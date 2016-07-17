@@ -1,3 +1,10 @@
+name: Martin Rotter
+
+meta:
+  description: My personal website.
+  author: Martin Rotter
+
+exclude: ['.gitignore', 'Gemfile', 'Gemfile.lock']
 timezone: Europe/Prague
 markdown: kramdown
 highlighter: rouge
