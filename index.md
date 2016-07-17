@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 title: Your New Jekyll Knowledge Base
 slug: home
 ---
