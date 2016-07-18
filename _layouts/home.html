@@ -6,8 +6,6 @@ layout: default
   {{ content }}
 </div>
 
-<button type="button" class="btn btn-default">Default</button>
-
 <div>
   {% for tag in site.categories %}
   <a href="#{{ tag[0] | slugify }}" class="btn btn-primary" role="button"><span class="glyphicon glyphicon-tag" aria-hidden="true"></span> {{ tag[0] }}</a>
