@@ -8,6 +8,10 @@ datetime_format: '%B %e, %Y %H:%M'
 exclude: ['.gitignore', 'Gemfile', 'Gemfile.lock']
 timezone: Europe/Prague
 markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+  
 highlighter: rouge
 excerpt_separator: <!--more-->
 encoding: utf-8

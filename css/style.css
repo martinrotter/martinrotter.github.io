@@ -35,6 +35,10 @@ body {
   margin-bottom: 32px;
 }
 
+.btn-category {
+  margin: 5px;
+}
+
 .page {
   margin-top: 16px;
 }
