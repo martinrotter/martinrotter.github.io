@@ -1,34 +1,38 @@
     <div class="navbar navbar-inverse navbar-static-top">
-      <div class="container">
-        <div class="navbar-header">
-          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-            <span class="icon-bar"></span>
-          </button>
-          
+  <div class="container">
+    <div class="container-fluid">
+
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+          <span class="icon-bar"/>
+          <span class="icon-bar"/>
+          <span class="icon-bar"/>
+        </button>
+
+        <a class="navbar-brand" href="#">
+          <img alt="Brand" src="/images/icons/github.png">
+          </a>
+
           <a class="navbar-brand" href="#">
             <img alt="Brand" src="/images/icons/github.png">
-          </a>
-          
-          <a class="navbar-brand" href="#">
-            <img alt="Brand" src="/images/icons/github.png">
-          </a>
-          
-          <a class="navbar-brand" href="{{ site.url }}/">{{ site.name }}</a>
+            </a>
+
+            <a class="navbar-brand" href="{{ site.url }}/">{{ site.name }}</a>
+          </div>
         </div>
-          <div class="navbar-collapse collapse">
-            <ul class="nav navbar-nav nav-links">
-              {% for link in site.data.navbar %}
-                  <li {% if page.title == link.title %}class="active"{% endif %}>
-                    <a href="{% if link.external %}{{ link.url }}
-                               {% else %}
-                                {{ site.url }}{{ link.url }}
-                             {% endif %}"
-                    {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a>
-                  </li>
-              {% endfor %}
-            </ul>
-          </div><!--/.nav-collapse -->
+        <div class="navbar-collapse collapse">
+          <ul class="nav navbar-nav nav-links">
+            {% for link in site.data.navbar %}
+            <li {% if page.title == link.title %}class="active"{% endif %}>
+              <a href="{% if link.external %}{{ link.url }}
+                  {% else %}
+                  {{ site.url }}{{ link.url }}
+                  {% endif %}"
+                  {% if link.external %}target="_blank"{% endif %}>{{ link.title }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        <!--/.nav-collapse -->
       </div>
     </div>
