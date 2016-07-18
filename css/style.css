@@ -36,6 +36,6 @@ body {
   left: 5px;
 }
 
-.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+.navbar-collapse.in {
   margin-bottom: 4px;
 }
