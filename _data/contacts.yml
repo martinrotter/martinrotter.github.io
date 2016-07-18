@@ -1,10 +1,15 @@
 - type: cv
+  alt: See my CV.
   url: /assets/2016/07/rotter-cv.eng
 - type: rss
+  alt: Display ATOM feed of this site.
   url: /posts.atom
 - type: linkedin
+  alt: View my LinkedIn profile.
   url: https://www.linkedin.com/in/martinrotter
 - type: github
+  alt: Form me on GitHub.
   url: https://github.com/martinrotter
 - type: e-mail
+  alt: Write me an e-mail.
   url: mailto:rotter.martinos@gmail.com
