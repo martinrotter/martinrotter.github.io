@@ -7,6 +7,6 @@ layout: default
 </div>
 
 {% for post in site.posts %}	
-  <h3><a href="{{ post.url }}" data-toggle="tooltip" data-placement="bottom" title="{{ post.excerpt }}">{{ post.title }}</a></h3>
+  <h3><a href="{{ post.url }}" data-toggle="tooltip" data-placement="bottom" title="{{ post.excerpt | strip_html | strip }}">{{ post.title }}</a></h3>
   <p><small><strong>{{ post.date | date: "%B %e, %Y" }}</strong></small></p>			
 {% endfor %}	
