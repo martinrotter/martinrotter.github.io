@@ -4,6 +4,7 @@ meta:
   description: My personal website.
   author: Martin Rotter
 
+datetime_format: '%B %e, %Y %H:%M'
 exclude: ['.gitignore', 'Gemfile', 'Gemfile.lock']
 timezone: Europe/Prague
 markdown: kramdown
