@@ -25,3 +25,10 @@ body {
 .navbar-contact {
   margin: 4px 0px 4px 4px;
 }
+
+.jumbotron {
+  padding-left: 15px;
+  padding-right: 15px;
+  padding-top: 30px;
+  padding-top: 30px;
+}
