@@ -9,4 +9,5 @@ exclude: ['.gitignore', 'Gemfile', 'Gemfile.lock']
 timezone: Europe/Prague
 markdown: kramdown
 highlighter: rouge
+excerpt_separator: <!--more-->
 encoding: utf-8

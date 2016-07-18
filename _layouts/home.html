@@ -17,11 +17,15 @@ layout: default
 <div>
   {% for tag in site.categories %}
   <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
-  <div class="posts-of-category">
+  <div class="container-fluid posts-of-category">
+  	<div class="row">
     {% for post in tag[1] %}
-      <h3><a href="{{ post.url }}" data-toggle="tooltip" data-placement="bottom" title="{{ post.excerpt | strip_html | strip }}">{{ post.title }}</a></h3>
+    <div class="col-md-4">
+    	      <h3><a href="{{ post.url }}" data-toggle="tooltip" data-placement="bottom" title="{{ post.excerpt | strip_html | strip }}">{{ post.title }}</a></h3>
       <p><img class="post-language" width="20" height="20" alt="{{ post.language }}" src="/images/flags/{{ post.language }}.png"> <span class="post-date"><small><strong>{{ post.date | date: site.datetime_format }}</strong></small></span></p>	
+    </div>
     {% endfor %}
+    </div>
   </div>
   {% endfor %}
 </div>
