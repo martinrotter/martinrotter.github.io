@@ -35,3 +35,7 @@ body {
   position: relative;
   left: 5px;
 }
+
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+  margin-bottom: 4px;
+}
