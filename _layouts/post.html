@@ -3,7 +3,7 @@ layout: default
 ---
 
 <h2>{{ page.title }}</h2>
-<p>{{ page.date | date: "{{ site.datetime_format }}" }}</p>
+<p>{{ page.date | date: site.datetime_format }}</p>
 
 <div>
   {{ content }}
