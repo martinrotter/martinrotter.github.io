@@ -26,6 +26,15 @@ body {
   margin: 4px 0px 4px 4px;
 }
 
+.post {
+  margin-top: 16px;
+  margin-bottom: 22px;
+}
+
+.page {
+  margin-top: 16px;
+}
+
 .post-language {
   position: relative;
   top: -1px;
