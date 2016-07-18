@@ -21,9 +21,9 @@
           {% endfor %}
         </ul>
         
-        <a class="navbar-right navbar-contact" href=""><img width="32" height="32" src="/images/icons/facebook.png"></a>
-        <a class="navbar-right navbar-contact" href=""><img width="32" height="32" src="/images/icons/facebook.png"></a>
-        <a class="navbar-right navbar-contact" href=""><img width="32" height="32" src="/images/icons/facebook.png"></a>
+        {% for contact in site.data.navbar %}
+        <a class="navbar-right navbar-contact" href="{{ contact.url }}"><img width="32" height="32" src="/images/icons/{{ contact.type }}.png"></a>
+        {% endfor %}
       </div>
   </div>
 </div>
