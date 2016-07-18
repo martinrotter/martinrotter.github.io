@@ -48,3 +48,8 @@ body {
 .navbar-collapse.in {
   margin-bottom: 4px;
 }
+
+.posts-of-category {
+  position: relative;
+  left: 32px;
+}
