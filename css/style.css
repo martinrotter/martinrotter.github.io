@@ -26,7 +26,12 @@ body {
   margin: 4px 0px 4px 4px;
 }
 
-.blog-language {
+.post-language {
   position: relative;
   top: -2px;
+}
+
+.post-date {
+  position: relative;
+  left: 10px;
 }

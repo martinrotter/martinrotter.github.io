@@ -8,5 +8,5 @@ layout: default
 
 {% for post in site.posts %}	
   <h3><a href="{{ post.url }}" data-toggle="tooltip" data-placement="bottom" title="{{ post.excerpt | strip_html | strip }}">{{ post.title }}</a></h3>
-  <p><img width="20" height="20" src="/images/flags/{{ post.language }}.png"> <small><strong>{{ post.date | date: "%B %e, %Y %H:%M" }}</strong></small></p>			
+  <p><img class="post-language" width="20" height="20" src="/images/flags/{{ post.language }}.png"> <span class="post-date"><small><strong>{{ post.date | date: "%B %e, %Y %H:%M" }}</strong></small></span></p>			
 {% endfor %}	
