@@ -6,9 +6,9 @@ layout: default
   {{ content }}
 </div>
 
-<div class="tags-expo-list">
+<div>
   {% for tag in site.categories %}
-  <a href="#{{ tag[0] | slugify }}" class="btn btn-default" role="button"><span class="glyphicon glyphicon-tag" aria-hidden="true"></span> {{ tag[0] }}</a>
+  <a href="#{{ tag[0] | slugify }}" class="btn btn-primary" role="button"><span class="glyphicon glyphicon-tag" aria-hidden="true"></span> {{ tag[0] }}</a>
   {% endfor %}
 </div>
 
