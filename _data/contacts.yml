@@ -1,6 +1,6 @@
 - type: cv
   alt: See my CV.
-  url: /assets/2016/07/rotter-cv.eng
+  url: /assets/2016/07/rotter-cv.pdf
 - type: rss
   alt: Display ATOM feed of this site.
   url: /posts.atom
