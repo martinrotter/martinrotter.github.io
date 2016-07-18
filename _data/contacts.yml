@@ -1,4 +1,10 @@
-- type: e-mail
-  url: mailto:rotter.martinos@gmail.com
+- type: cv
+  url: /assets/2016/07/rotter-cv.eng
+- type: rss
+  url: /posts.atom
+- type: linkedin
+  url: https://www.linkedin.com/in/martinrotter
 - type: github
   url: https://github.com/martinrotter
+- type: e-mail
+  url: mailto:rotter.martinos@gmail.com
