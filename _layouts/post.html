@@ -6,6 +6,10 @@ layout: default
 <p>{{ page.date | date: site.datetime_format }}</p>
 
 <div class="post">
+  <a id="gal" href="#">here</a>.
+
+  {% include gallery.html id="gal" %}
+
   {{ content }}
 </div>
 
