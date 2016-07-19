@@ -141,7 +141,7 @@ Let me write few things about the GSoC organization itself. Important part of th
 
 You can see pictures for this blog post <a id="gal" href="#">here</a>.
 
-{% include gallery.html image="toolkit-1.png" id="gal" %}
+{% include gallery.html id="gal" %}
 
 See all related links to my GSoC work and other stuff:
 
