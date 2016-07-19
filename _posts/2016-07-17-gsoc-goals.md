@@ -42,4 +42,4 @@ I split goals into several categories. OK, let's see it. [TBD] means "To Be Done
 * <span class="label label-success">DONE</span> Implement reasonable localization handling mechanism.
 * <span class="label label-success">DONE</span> Add custom “tutorial” screen to application which will describe the whole concept (or its important parts) of the application to the user.
 * <span class="label label-success">DONE</span> Port whole code base and build-specific things to Linux with testing on Archlinux.
-* [PARTLY-DONE] Ensure that application is compilable and runs reasonably on Mac OS X and OS/2 operating systems and perform some testing on those platforms if possible.
+* <span class="label label-warning">PARTIALLY DONE</span> Ensure that application is compilable and runs reasonably on Mac OS X and OS/2 operating systems and perform some testing on those platforms if possible.
