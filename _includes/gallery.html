@@ -1,19 +1,15 @@
 
 <script type="text/javascript">
-	$( document ).ready(function() {
-$( '#{{ include.id }}' ).click( function( e ) {
-				e.preventDefault();
-				$.swipebox( [					
-
+  $(document).ready(function() {
+    $('#{{ include.id }}').click(function(e) {
+      e.preventDefault();
+      $.swipebox([					
 {% for image in page.images %}
-    {% if include.image == null or include.image == image.name %}       
-        { href : '{{ page.imgfolder }}/{{ image.name }}', title : 'image.text' },
-    {% endif %}
+  {% if include.image == null or include.image == image.name %}       
+        {href: '{{ page.imgfolder }}/{{ image.name }}', title : '{{ image.text }}' },
+  {% endif %}
 {% endfor %}
-
-				] );
-			} );
-});
+      ]);
+    });
+  });
 </script>
-
-<a id="{{ include.id }}" href="#">{{ include.id }}</a>
