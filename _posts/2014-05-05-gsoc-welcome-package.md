@@ -15,7 +15,4 @@ images:
     text: 
 ---
 
-I love that shit! See the gallery <a id="gal" href="#">here</a>.
-<!--more-->
-
-{% include gallery.html id="gal" %}
+I love that shit! See the gallery <a id="gallery" href="#">here</a>.
