@@ -7,6 +7,7 @@ meta:
 datetime_format: '%B %e, %Y %H:%M'
 exclude: ['.gitignore', 'Gemfile', 'Gemfile.lock']
 timezone: Europe/Prague
+permalink: pretty
 markdown: kramdown
 kramdown:
   input: GFM

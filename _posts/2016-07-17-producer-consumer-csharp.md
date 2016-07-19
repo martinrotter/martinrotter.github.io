@@ -3,7 +3,7 @@ layout: post
 title: Producer - consumer pattern for arbitrary number of endpoints and with limited buffer
 author: Martin Rotter
 date: 2016-07-17 09:00:00 +0200
-category: IT & Programming
+category: Programming
 language: en
 ---
 
