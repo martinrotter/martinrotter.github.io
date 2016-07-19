@@ -3,14 +3,18 @@ layout: default
 ---
 
 <h2>{{ page.title }}</h2>
-<p>{{ page.date | date: site.datetime_format }}</p>
+<p>{{ page.date | date: site.datetime_format }}
+{% if page.images != null %}       
+  <a id="gallery" href="#">gallery</a>
+{% endif %}
+</p>
 
 <div class="post">
-  <a id="gallery" href="#">here</a>.
-
-  {% include gallery.html id="gallery" %}
-
   {{ content }}
 </div>
 
 Written by {{ page.author }}.
+
+{% if page.images != null %}       
+  {% include gallery.html id="gallery" %}
+{% endif %}
