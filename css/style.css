@@ -53,6 +53,12 @@ body {
   left: 5px;
 }
 
+@media (min-width: 992px) {
+  .posts-of-category > .row > .col-md-3:nth-child(3n+1) {
+    clear: both
+  }
+}
+
 .navbar-collapse.in {
   margin-bottom: 4px;
 }
