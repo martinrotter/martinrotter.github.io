@@ -11,6 +11,7 @@ exclude: ['.gitignore', 'Gemfile', 'Gemfile.lock']
 timezone: Europe/Prague
 permalink: pretty
 markdown: kramdown
+
 kramdown:
   input: GFM
   syntax_highlighter: rouge
@@ -18,3 +19,6 @@ kramdown:
 highlighter: rouge
 excerpt_separator: <!--more-->
 encoding: utf-8
+
+gems:
+  - jekyll-sitemap
