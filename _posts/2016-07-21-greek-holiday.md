@@ -20,7 +20,7 @@ We chose Greece and found interesting offer from travel agency. They said, that 
 ### Marietta studios
 Located in calm and sweet place, Marietta studios were perfect accomodation for us. Particularly for our baby boy who could sleep better. I have to add, that our studio had wery good noise isolation from the outside world because of very good windows and doors. You appreciate this if you don't like the loud sound made by cicadas.
 
-[![Foo]({{ page.imgfolder }/cicada.jpg})](#){: id="gallery-cicada"}
+[![Foo]({{ page.imgfolder }}/cicada.jpg)](#){: id="gallery-cicada"}
 
 ### The island
 
