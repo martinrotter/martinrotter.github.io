@@ -21,3 +21,7 @@ This is just a brief test of showing galleries with Jekyll:
 {% include gallery.html id="gall1" %}
 
 {% include gallery.html image="facebook.png" id="gall2" %}
+
+Now one example of picture with thumbnail in pure markdown.
+
+[![Cicada]({{ page.imgfolder }}/facebook.png){: width="100px"}](#){: id="gall2"}
