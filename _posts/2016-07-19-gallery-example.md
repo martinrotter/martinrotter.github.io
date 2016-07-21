@@ -16,12 +16,12 @@ images:
 This is just a brief test of showing galleries with Jekyll:
 
 * <a id="gall1" href="#">two pictures</a>,
-* <a id="gall2" href="#">one picture</a>.
 
-{% include gallery.html id="gall1" %}
-
-{% include gallery.html image="facebook.png" id="gall2" %}
 
 Now one example of picture with thumbnail in pure markdown.
 
 [![Cicada]({{ page.imgfolder }}/facebook.png){: width="100px"}](#){: id="gall2"}
+
+{% include gallery.html id="gall1" %}
+
+{% include gallery.html image="facebook.png" id="gall2" %}
