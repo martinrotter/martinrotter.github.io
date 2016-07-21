@@ -8,12 +8,8 @@ language: en
 imgfolder: /assets/2016/07/greek-holiday
 published: false
 images:
-  - name: toolkit-1.png
-    text: 
-  - name: toolkit-2.png
-    text: 
-  - name: toolkit-3.png
-    text: 
+  - name: cicada.jpg
+    text: Cicada
 ---
 
 Some months ago, me and my family have decided to go to our first real abroad holiday.
@@ -22,6 +18,11 @@ Some months ago, me and my family have decided to go to our first real abroad ho
 We chose Greece and found interesting offer from travel agency. They said, that our holiday will not be hosted by standard hotel. We will be staying in lonely area, in very small guesthouse-like hotel [Marietta Studios](https://www.google.cz/maps/place/Marietta+Studios+Zante+Zakynthos/@37.8321726,20.8306346,15.5z/data=!4m5!3m4!1s0x0:0xb0df501e35d557f5!8m2!3d37.834462!4d20.828275). It is located on Zakynthos island, on east side of the island.
 
 ### Marietta studios
+Located in calm and sweet place, Marietta studios were perfect accomodation for us. Particularly for our baby boy who could sleep better. I have to add, that our studio had wery good noise isolation from the outside world because of very good windows and doors. You appreciate this if you don't like the loud sound made by cicadas.
 
+[![Foo]({{ page.imgfolder }/cicada.jpg})](#){: id="gallery-cicada"}
 
 ### The island
+
+
+{% include gallery.html image="cicada.png" id="gallery-cicada" %}
