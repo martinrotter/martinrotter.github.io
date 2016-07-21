@@ -6,10 +6,7 @@ date: 2016-07-21 10:00:00 +0200
 category: Poem and quotes
 language: en
 imgfolder: /assets/2016/07/greek-holiday
-published: true
-images:
-  - name: cicada.jpg
-    text: Cicada
+published: false
 ---
 
 Some months ago, me and my family have decided to go to our first real abroad holiday.
