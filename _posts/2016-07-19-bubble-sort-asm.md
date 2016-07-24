@@ -3,7 +3,7 @@ layout: post
 title: Generic Bubble Sort algorithm implementation in C & inline Assembly
 author: Martin Rotter
 date: 2016-07-19 08:00:00 +0200
-category: IT
+category: it-programming
 language: en
 ---
 

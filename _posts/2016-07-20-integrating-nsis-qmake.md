@@ -3,7 +3,7 @@ layout: post
 title: Integrating NSIS with qmake
 author: Martin Rotter
 date: 2016-07-20 08:42:00 +0200
-category: IT
+category: it-programming
 language: en
 ---
 

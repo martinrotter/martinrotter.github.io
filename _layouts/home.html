@@ -7,23 +7,25 @@ layout: default
 </div>
 
 <div>
-  {% for tag in site.categories %}
-  <a href="#{{ tag[0] | slugify }}" class="btn btn-primary btn-category" role="button"><span class="glyphicon glyphicon-tag" aria-hidden="true"></span> {{ tag[0] }}</a>
+  {% for category in site.data.categories %}
+  <a href="#{{ category.slug }}" class="btn btn-primary btn-category" role="button"><span class="glyphicon glyphicon-tag" aria-hidden="true"></span> {{ category.name }}</a>
   {% endfor %}
 </div>
 
 <hr/>
 
 <div>
-  {% for tag in site.categories %}
-  <h2 id="{{ tag[0] | slugify }}">{{ tag[0] }}</h2>
+  {% for category in site.data.categories %}
+  <h2 id="{{ category.slug }}">{{ category.name }}</h2>
   <div class="container-fluid posts-of-category">
   	<div class="row">
-    {% for post in tag[1] %}
-    <div class="col-md-4">
-    	      <h3><a href="{{ post.url }}" data-toggle="tooltip" data-placement="bottom" title="{{ post.excerpt | strip_html | strip }}">{{ post.title }}</a></h3>
-      <p><img class="post-language" width="20" height="20" alt="{{ post.language }}" src="/images/flags/{{ post.language }}.png"> <span class="post-date"><small><strong>{{ post.date | date: site.datetime_format }}</strong></small></span></p>	
-    </div>
+    {% for post in site.posts %}
+      {% if post.category == category.slug %}
+      <div class="col-md-4">
+        <h3><a href="{{ post.url }}" data-toggle="tooltip" data-placement="bottom" title="{{ post.excerpt | strip_html | strip }}">{{ post.title }}</a></h3>
+        <p><img class="post-language" width="20" height="20" alt="{{ post.language }}" src="/images/flags/{{ post.language }}.png"> <span class="post-date"><small><strong>{{ post.date | date: site.datetime_format }}</strong></small></span></p> 
+      </div>
+      {% endif %}
     {% endfor %}
     </div>
   </div>

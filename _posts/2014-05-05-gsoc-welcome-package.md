@@ -3,7 +3,7 @@ layout: post
 title: Welcome package arrived.
 author: Martin Rotter
 date: 2014-05-05 08:00:00 +0200
-category: GSoC 2014
+category: gsoc-2014
 language: en
 imgfolder: /assets/2014/05/gsoc-welcome-package
 images:

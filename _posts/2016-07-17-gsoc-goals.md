@@ -3,7 +3,7 @@ layout: post
 title: Goals and targets
 author: Martin Rotter
 date: 2014-04-26 09:00:00 +0200
-category: GSoC 2014
+category: gsoc-2014
 language: en
 ---
 

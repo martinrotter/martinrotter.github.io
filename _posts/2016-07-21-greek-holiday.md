@@ -3,7 +3,7 @@ layout: post
 title: Perfect Greek holiday
 author: Martin Rotter
 date: 2016-07-21 10:00:00 +0200
-category: Poem and quotes
+category: poem-quotes
 language: en
 imgfolder: /assets/2016/07/greek-holiday
 published: false

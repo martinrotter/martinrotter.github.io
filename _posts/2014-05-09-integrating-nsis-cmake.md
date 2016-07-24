@@ -3,7 +3,7 @@ layout: post
 title: Integrating NSIS with CMake
 author: Martin Rotter
 date: 2014-05-09 09:00:00 +0200
-category: IT
+category: it-programming
 language: en
 ---
 

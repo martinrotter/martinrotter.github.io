@@ -3,7 +3,7 @@ layout: post
 title: Řešení potíží afrických imigrantů
 author: Martin Rotter
 date: 2015-08-28 09:00:00 +0200
-category: Poem and quotes
+category: poem-quotes
 language: cs
 ---
 

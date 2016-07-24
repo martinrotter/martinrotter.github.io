@@ -3,7 +3,7 @@ layout: post
 title: How to install Chromium for all users on Windows - the clean way
 author: Martin Rotter
 date: 2016-07-17 09:00:00 +0200
-category: IT
+category: it-programming
 language: en
 ---
 

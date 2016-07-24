@@ -3,7 +3,7 @@ layout: post
 title: Amazing three months
 author: Martin Rotter
 date: 2014-08-19 08:00:00 +0200
-category: GSoC 2014
+category: gsoc-2014
 language: en
 imgfolder: /assets/2014/08/gsoc-summary
 images:
@@ -28,7 +28,7 @@ So I have some knowledge about OSS mechanisms. GSoC was another huge experience 
 
 ### Searching the right project
 
-Well, one could say it's easy, but it is not. Tens of organizations were selected as objects of GSoC 2014 and each organization does different stuff, including web browsers, mathematical software, educational applications or desktop environments. Problem is that there is too many of possible tasks you can do. Each organization usually publishes a list of recommended tasks for students to do during GSoC but everybody can come with his/her own idea or proposal.
+Well, one could say it's easy, but it is not. Tens of organizations were selected as objects of  and each organization does different stuff, including web browsers, mathematical software, educational applications or desktop environments. Problem is that there is too many of possible tasks you can do. Each organization usually publishes a list of recommended tasks for students to do during GSoC but everybody can come with his/her own idea or proposal.
 
 That was not my case. I went through a list of participating organizations and I saw one with interesting name, BuildmLearn. "What does that word mean?" I said to me. I was curoius and excited when I found out that this particular organization creates software for education purposes as I have always found teaching interesting job.
 
@@ -133,7 +133,7 @@ I was very happy, that all stuff was implemented and rougly tested before the de
 
 We ported BuildmLearn Toolkit to Windows, Linux, OS/2 and Mac OS X, which is great achievement, which I am proud of.
 
-### GSoC 2014 internals
+###  internals
 
 Let me write few things about the GSoC organization itself. Important part of the GSoC is money and the way they are delivered to you.  If you are successfull, then you are paid for your GSoC effort. In previous years, payments were usually made via special prepaid "VISA" bank card which was sent to every participant. I must say I do not like this way so I was hoping that this year will be different. And it was. There was now option to get your reward via ordinary bank account money transfer. SUPERB! This way is much more comfortable for anyone. All relevant information is always delivered to your mailbox which you use for your GSoC registration. It is important to read all GSoC-related e-mails.
 
