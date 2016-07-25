@@ -29,6 +29,6 @@ Some of my projects are:
 
 See some other my projects on my GitHub page (see right/top sidebar with iconic links) and in my CV (see previous part of this post).
 
-I do use ArchLinux as my primary operating system. Check out my [dot files](https://github.com/martinrotter/linux-customizations)</a>.
+I do use Arch Linux as my primary operating system. Check out my [dot files](https://github.com/martinrotter/linux-customizations).
 
 Feel free to contact me.
