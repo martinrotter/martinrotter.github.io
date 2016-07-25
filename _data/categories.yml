@@ -1,8 +1,8 @@
 - name: GSoC 2014
   slug: gsoc-2014
+- name: IT & Programming
+  slug: it-programming
 - name: Miscellaneous
   slug: misc
-- name: Poem and quotes
+- name: Poem & Quotes
   slug: poem-quotes
-- name: IT and programming
-  slug: it-programming
