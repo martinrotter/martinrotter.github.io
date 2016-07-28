@@ -30,6 +30,10 @@ body {
   margin: 4px 0px 4px 4px;
 }
 
+.post-share-icon {
+  margin-right: 4px;
+}
+
 .post {
   margin-top: 22px;
   margin-bottom: 32px;
