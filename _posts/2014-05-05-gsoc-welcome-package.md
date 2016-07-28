@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome package arrived.
+title: Welcome package arrived
 author: Martin Rotter
 date: 2014-05-05 08:00:00 +0200
 category: gsoc-2014
