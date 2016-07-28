@@ -10,6 +10,8 @@ layout: default
   {{ content }}
 </div>
 
+<a href="{{ site.url }}{{ page.url }}" title="{{ page.title }}" data-toggle="tooltip" data-placement="bottom"><img width="32" height="32" alt="Share post on Facebook." src="/images/icons/facebook.png"></a>
+
 {% if page.images != null %}       
   {% include gallery.html id="gallery" %}
 {% endif %}
