@@ -6,6 +6,9 @@ date: 2016-07-21 10:00:00 +0200
 category: poem-quotes
 language: en
 imgfolder: /assets/2016/07/greek-holiday
+images:
+  - name: 1.jpg
+  - name: 2.jpg
 published: false
 ---
 
@@ -23,6 +26,7 @@ I have to say that we had all we needed in Marietta studios. Marietta gave even 
 
 ### The island
 
+Zakynthos...
 
 
 {% include gallery.html id="gall1" %}
