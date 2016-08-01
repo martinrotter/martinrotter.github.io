@@ -23,7 +23,7 @@ We chose Greece and found interesting offer from travel agency. They said, that 
 ### Marietta studios
 Located in calm and sweet place, Marietta studios were perfect accomodation for us. Particularly for our baby boy who could sleep better. I have to add, that our studio had wery good noise isolation from the outside world because of very good windows and doors. You appreciate this if you don't like the loud sound made by cicadas.
 
-[![Cicada]({{ page.imgfolder }}/cicada.jpg){: width="200px" }]({{ page.imgfolder }}/cicada.jpg){: .image-border}
+[![Cicada]({{ page.imgfolder }}/cicada.jpg){: width="200px" }]({{ page.imgfolder }}/cicada.jpg){: .swipebox .image-border}
 
 I have to say that we had all we needed in Marietta studios. Marietta gave even prepared couple of salads for us. Particularly [Briam](http://allrecipes.com/recipe/144406/briam-greek-mixed-vegetables-in-tomato-sauce/) was perfect, I have never tasted so good salad.
 
