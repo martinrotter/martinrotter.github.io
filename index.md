@@ -1,5 +1,6 @@
 ---
 layout: home
+imgfolder: /assets/2016/07/
 ---
 
 # Hello!
