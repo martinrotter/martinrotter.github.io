@@ -71,6 +71,11 @@ body {
   padding-left: 32px;
 }
 
+.my-face {
+  float: left;
+  margin: 3px;
+}
+
 .image-border {
   display: inline-block;
   position: relative;
