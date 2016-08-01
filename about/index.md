@@ -12,7 +12,7 @@ Let my to introduce myself, I like:
 
 <a class="btn btn-default" href="/assets/2016/07/rotter-cv.pdf" role="button">Check out my CV</a>
 
-[![Me]({{ page.imgfolder }}/rotter.png){: width="100px" }]({{ page.imgfolder }}/rotter.png){: .swypebox .image-border}
+[![Me]({{ page.imgfolder }}/rotter.png){: width="100px" }]({{ page.imgfolder }}/rotter.png){: .swipebox .image-border}
 
 My e-mail address is [rotter.martinos@gmail.com](mailto:rotter.martinos@gmail.com). You can find more info about me in my CV and in places accessible from right top corner of this website.
 
