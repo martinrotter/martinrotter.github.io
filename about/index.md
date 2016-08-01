@@ -5,7 +5,11 @@ permalink: /about/
 imgfolder: /assets/2016/07/
 ---
 
-[![Me]({{ page.imgfolder }}/rotter.png){: width="100px" }]({{ page.imgfolder }}/rotter.png){: .swipebox .image-border align="left"}
+<div style="float: left;">
+[![Me]({{ page.imgfolder }}/rotter.png){: width="100px" }]({{ page.imgfolder }}/rotter.png){: .swipebox .image-border}
+</div>
+
+<div style="float: left;">
 Let my to introduce myself, I like:
 
 * programming with C++, Qt, C#, XML, SQL, LaTeX and some other technologies,
@@ -34,3 +38,4 @@ See some other my projects on my GitHub page (see right/top sidebar with iconic 
 I do use Arch Linux as my primary operating system. Check out my [dot files](https://github.com/martinrotter/linux-customizations).
 
 Feel free to contact me.
+</div>
