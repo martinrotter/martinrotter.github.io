@@ -12,7 +12,20 @@ images:
   - name: 3.jpg
   - name: 4.jpg
   - name: 5.jpg
-published: false
+  - name: 6.jpg
+  - name: 7.jpg
+  - name: 8.jpg
+  - name: 9.jpg
+  - name: 10.jpg
+  - name: 11.jpg
+  - name: 12.jpg
+  - name: 13.jpg
+  - name: 14.jpg
+  - name: 15.jpg
+  - name: 16.jpg
+  - name: 17.jpg
+  - name: 18.jpg
+  - name: 19.jpg
 ---
 
 Some months ago, me and my family have decided to go to our first real abroad holiday. See [all photos](#){: id="gall1"} attached to this article.
