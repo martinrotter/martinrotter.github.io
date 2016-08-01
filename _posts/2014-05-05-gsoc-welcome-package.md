@@ -15,4 +15,4 @@ images:
     text: 
 ---
 
-I love that shit! See the gallery <a id="gallery" href="#">here</a>.
+I love that shit! See the gallery [here](#){: id="gallery"}.
