@@ -10,7 +10,7 @@ Let my to introduce myself, I like:
 * programming with C++, Qt, C#, XML, SQL, LaTeX and some other technologies,
 * watching movies and enjoying my life in my spare time.
 
-[![Me]({{ page.imgfolder }}/rotter-head.png){: width="50px" }]({{ page.imgfolder }}/rotter.png){: .swipebox .image-border} [Check out my CV](/assets/2016/07/rotter-cv.pdf){: .btn .btn-default role="button"}
+[Check out my CV](/assets/2016/07/rotter-cv.pdf){: .btn .btn-default role="button"}
 
 My e-mail address is [rotter.martinos@gmail.com](mailto:rotter.martinos@gmail.com). You can find more info about me in my CV and in places accessible from right top corner of this website.
 
