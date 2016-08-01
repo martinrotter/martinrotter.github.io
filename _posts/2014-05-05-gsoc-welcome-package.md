@@ -15,4 +15,6 @@ images:
     text: 
 ---
 
-I love that shit! See the gallery [here](#){: id="gallery"}.
+I love that shit! See the gallery [here](#){: id="gall1"}.
+
+{% include gallery.html id="gall1" %}
