@@ -74,6 +74,9 @@ body {
 .my-face {
   float: left;
   margin: 6px;
+}
+
+.my-face img {
   border-radius: 4px;
 }
 
