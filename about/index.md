@@ -5,14 +5,13 @@ permalink: /about/
 imgfolder: /assets/2016/07/
 ---
 
+[![Me]({{ page.imgfolder }}/rotter.png){: width="100px" }]({{ page.imgfolder }}/rotter.png){: .swipebox .image-border align="left"}
 Let my to introduce myself, I like:
 
 * programming with C++, Qt, C#, XML, SQL, LaTeX and some other technologies,
 * watching movies and enjoying my life in my spare time.
 
 <a class="btn btn-default" href="/assets/2016/07/rotter-cv.pdf" role="button">Check out my CV</a>
-
-[![Me]({{ page.imgfolder }}/rotter.png){: width="100px" }]({{ page.imgfolder }}/rotter.png){: .swipebox .image-border}
 
 My e-mail address is [rotter.martinos@gmail.com](mailto:rotter.martinos@gmail.com). You can find more info about me in my CV and in places accessible from right top corner of this website.
 
