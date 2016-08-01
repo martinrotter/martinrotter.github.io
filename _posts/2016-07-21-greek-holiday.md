@@ -9,10 +9,13 @@ imgfolder: /assets/2016/07/greek-holiday
 images:
   - name: 1.jpg
   - name: 2.jpg
-published: false
+  - name: 3.jpg
+  - name: 4.jpg
+  - name: 5.jpg
+published: true
 ---
 
-Some months ago, me and my family have decided to go to our first real abroad holiday. See [all photos](){: id="gall1"} attached to this article.
+Some months ago, me and my family have decided to go to our first real abroad holiday. See [all photos](#){: id="gall1"} attached to this article.
 <!--more-->
 
 We chose Greece and found interesting offer from travel agency. They said, that our holiday will not be hosted by standard hotel. We will be staying in lonely area, in very small guesthouse-like hotel [Marietta Studios](https://www.google.cz/maps/place/Marietta+Studios+Zante+Zakynthos/@37.8321726,20.8306346,15.5z/data=!4m5!3m4!1s0x0:0xb0df501e35d557f5!8m2!3d37.834462!4d20.828275). It is located on Zakynthos island, on east side of the island.
@@ -20,13 +23,13 @@ We chose Greece and found interesting offer from travel agency. They said, that 
 ### Marietta studios
 Located in calm and sweet place, Marietta studios were perfect accomodation for us. Particularly for our baby boy who could sleep better. I have to add, that our studio had wery good noise isolation from the outside world because of very good windows and doors. You appreciate this if you don't like the loud sound made by cicadas.
 
-![Cicada]({{ page.imgfolder }}/cicada.jpg){: width="500px"}
+[![Cicada]({{ page.imgfolder }}/cicada.jpg){: .image-in-border width="500px" }]({{ page.imgfolder }}/cicada.jpg){: .image-hover-border}
 
 I have to say that we had all we needed in Marietta studios. Marietta gave even prepared couple of salads for us. Particularly [Briam](http://allrecipes.com/recipe/144406/briam-greek-mixed-vegetables-in-tomato-sauce/) was perfect, I have never tasted so good salad.
 
 ### The island
 
-Zakynthos...
+Zakynthos is rather small island so everything is really close, but keep in mind that there are mountains in the middle of the island, reaching nearly to the ocean. That's why you need car to really explore the island well, I recommend stronger car because hills are really really steep.
 
 
 {% include gallery.html id="gall1" %}

@@ -133,13 +133,13 @@ I was very happy, that all stuff was implemented and rougly tested before the de
 
 We ported BuildmLearn Toolkit to Windows, Linux, OS/2 and Mac OS X, which is great achievement, which I am proud of.
 
-###  internals
+### Internals
 
 Let me write few things about the GSoC organization itself. Important part of the GSoC is money and the way they are delivered to you.  If you are successfull, then you are paid for your GSoC effort. In previous years, payments were usually made via special prepaid "VISA" bank card which was sent to every participant. I must say I do not like this way so I was hoping that this year will be different. And it was. There was now option to get your reward via ordinary bank account money transfer. SUPERB! This way is much more comfortable for anyone. All relevant information is always delivered to your mailbox which you use for your GSoC registration. It is important to read all GSoC-related e-mails.
 
 ### Links
 
-You can see pictures for this blog post <a id="gal" href="#">here</a>.
+You can see pictures for this blog post [here](#){: id="gal"}.
 
 {% include gallery.html id="gal" %}
 
