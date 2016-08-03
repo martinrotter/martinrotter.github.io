@@ -39,7 +39,7 @@ Located in calm and sweet place, Marietta studios were perfect accomodation for 
 
 [![Cicada]({{ page.imgfolder }}/cicada.jpg){: width="200px" }]({{ page.imgfolder }}/cicada.jpg){: .swipebox .image-border}
 
-I have to say that we had all we needed in Marietta studios. Marietta gave even prepared couple of salads for us. Particularly [Briam](http://allrecipes.com/recipe/144406/briam-greek-mixed-vegetables-in-tomato-sauce/) was perfect, I have never tasted so good salad.
+I have to say that we had all we needed in Marietta studios. Marietta even prepared couple of salads for us. Particularly [Briam](http://allrecipes.com/recipe/144406/briam-greek-mixed-vegetables-in-tomato-sauce/) was perfect, I have never tasted so good salad.
 
 ### The island
 
