@@ -9,4 +9,6 @@ I love reading books. Particularly books about history, books about Russian life
 1. *Bylo nás pět* by Karel Poláček (rating 8),
 2. *Máj* by Karel Hynek Mácha (rating 9, [link](https://en.wikipedia.org/wiki/M%C3%A1j)),
 3. *Jak jsem vyhrál válku* by Patrick Ryan (rating 8, [link](https://en.wikipedia.org/wiki/How_I_Won_the_War)),
-4. Závěť a pravděpodobně všechny dálší poémy by François Villon (rating 10, [link](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Villon)).
+4. Závěť a pravděpodobně všechny dálší poémy by François Villon (rating 10, [link](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Villon)),
+5. Smrt krásných srnců by Ota Pavel (rating 7),
+6. Na západní frontě klid by Erich Maria Remarque (rating 8, [link](https://en.wikipedia.org/wiki/All_Quiet_on_the_Western_Front)).
