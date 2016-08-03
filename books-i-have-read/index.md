@@ -4,16 +4,9 @@ title: Book I've read
 permalink: /books-i-have-read/
 ---
 
-I love reading books. Particularly books about history, books about Russian life during WWII, books about Sherlock Holmes and many other genres. Table below shows all (okay, probably not all) books I have read in my life. Each book received 0 - 10 rating.
+I love reading books. Particularly books about history, books about Russian life during WWII, books about Sherlock Holmes and many other genres. List below shows all (okay, probably not all) books I have read in my life. Book I have read in Czech language is written with Czech title. Some entries contain link to book description on Amazon. I use my Kindle to read books, so I prefer e-books. Each book received 0 - 10 rating:
 
-{: .table-condensed .table-bordered .table-hover}
- # | Title  | Rating  | Links  |   
----|--------|---------|--------|---
-   |        |         |        |   
-   |        |         |        |   
-   |        |         |        |   
-
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+1. *Bylo nás pět* by Karel Poláček (rating 8),
+2. *Máj* by Karel Hynek Mácha (rating 9, [link](https://en.wikipedia.org/wiki/M%C3%A1j)),
+3. *Jak jsem vyhrál válku* by Patrick Ryan (rating 8, [link](https://en.wikipedia.org/wiki/How_I_Won_the_War)),
+4. Závěť a pravděpodobně všechny dálší poémy by François Villon (rating 10, [link](https://en.wikipedia.org/wiki/Fran%C3%A7ois_Villon)).
