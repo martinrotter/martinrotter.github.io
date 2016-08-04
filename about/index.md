@@ -1,8 +1,10 @@
 ---
-layout: page
+layout: post
 title: About me
 permalink: /about/
 imgfolder: /assets/2016/07/
+author: Martin Rotter
+date: 2015-01-01 09:00:00 +0200
 ---
 
 Let my to introduce myself, I like:
