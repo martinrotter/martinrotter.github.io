@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: post
 title: Book I've read
 permalink: /books-i-have-read/
+author: Martin Rotter
+date: 2015-01-01 09:00:00 +0200
 ---
 
 I love reading books. Particularly books about history, books about Russian life during WWII, books about Sherlock Holmes and many other genres. List below shows all (okay, probably not all) books I have read in my life. Book I have read in Czech language is written with Czech title. Some entries contain link to book description on Amazon. I use my Kindle to read books, so I prefer e-books. Each book received 0 - 10 rating:

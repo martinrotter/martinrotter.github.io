@@ -2,7 +2,6 @@
 layout: post
 title: About me
 permalink: /about/
-imgfolder: /assets/2016/07/
 author: Martin Rotter
 date: 2015-01-01 09:00:00 +0200
 ---
@@ -12,7 +11,7 @@ Let my to introduce myself, I like:
 * programming with C++, Qt, C#, XML, SQL, LaTeX and some other technologies,
 * watching movies and enjoying my life in my spare time.
 
-[Check out my CV](/assets/2016/07/rotter-cv.pdf){: .btn .btn-default role="button"}
+{% include button.html url="/assets/2016/07/rotter-cv.pdf" class="btn-default" icon="glyphicon-user" text="Check out my CV" %}
 
 My e-mail address is [rotter.martinos@gmail.com](mailto:rotter.martinos@gmail.com). You can find more info about me in my CV and in places accessible from right top corner of this website.
 
