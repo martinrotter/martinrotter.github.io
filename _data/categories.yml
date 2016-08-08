@@ -1,3 +1,5 @@
+- name: Food & Cooking
+  slug: food-cooking
 - name: GSoC 2014
   slug: gsoc-2014
 - name: IT & Programming
@@ -6,5 +8,3 @@
   slug: misc
 - name: Poem & Quotes
   slug: poem-quotes
-- name: Food & Cooking
-  slug: food-cooking
