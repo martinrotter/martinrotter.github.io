@@ -39,6 +39,8 @@ Vezmeme si misku s rozkvašeným kváskem a odklopíme víčko. Následně si od
 * kmín dle chuti (tak 3 lžíce alespoň),
 * semínka dle chuti (chia, sezam, slunečnice, co je libo).
 
+Nyní již k samotnému receptu:
+
 1. Do mísy, ve které máme rozkvašený kvásek, přidáme 300 g mouky dle vlastního výběru. Můžete dát čistě hladkou pšeničnou, pak máte základní chléb. Nebo to můžete namixovat, například 50% hladké pšeničné, přidat nějakou celozrnnou a tak podobně. Přidáme 180 ml vody, sůl, kmín a semínka.
 
 2. Vše nyní velice důkladně prohněteme v rukama či ručním mixérem s hnětacími háky. Já to hnětu mixérem většinou tak 3 minuty důkladně. Vznikne docela silně lepivé těsto, které by zároveň nemělo být moc tekuté, mělo by v zásadě docela držet tvar.
