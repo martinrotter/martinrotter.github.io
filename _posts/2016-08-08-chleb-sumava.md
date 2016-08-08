@@ -21,12 +21,12 @@ Dovolte, abych zde představil svůj velice jednoduchý a velice zjednodušený 
 Připravíme si ingredience na rozkvašení kvásku:
 
 * kvásek ve skleničce z ledničky,
-• 120 g *žitné* mouky,
+• 120 g **žitné** mouky,
 • 120 ml vody.
 
 Všechny ingredience vložíme do zaklapávatelné dózy/mísy a důkladně promícháme lžičkou tak, aby v míse nezůstala žádná nezamíchaná mouka. Následně zaklapneme víčkem a dáme přes noc odpočívat na linku.
 
-*Pokud nemáte žádný kvásek, ze kterého byste si mohli rozkvasit a jste z Olomouce, mohu Vám za úplatu kvásek darovat.*
+**Pokud nemáte žádný kvásek, ze kterého byste si mohli rozkvasit a jste z Olomouce, mohu Vám za úplatu kvásek darovat.**
 
 ### Druhý den
 
@@ -47,13 +47,13 @@ Nyní již k samotnému receptu:
 
 3. Nyní je třeba těsto popřekládat, vše ilustruje následující [video](https://www.youtube.com/watch?v=nCCHzSjUNXc). Zkrátka je třeba dát těsto na dobře pomoučenou desku a několikrát vzít okraj těsta a přeložit jej doprostřed.
 
-4. Popřekládáné těsto dobře pomoučíme na bocích a na straně, kde není šev vzniklý překládáním. Následně těsto vložíme do ošatky ševem *nahoru* a přikryjeme ručníkem, aby těsto neokoralo.
+4. Popřekládáné těsto dobře pomoučíme na bocích a na straně, kde není šev vzniklý překládáním. Následně těsto vložíme do ošatky ševem **nahoru** a přikryjeme ručníkem, aby těsto neokoralo.
 
 5. Necháme kynout asi 90 až 120 minut, podle teploty v místnosti a kvality těsta. Čím teplejší místnost, tím kratší kynutí. Těsto by mělo nakynout minimálně o polovinu, ideálně by mělo svůj objem zdvojnásobit. Těsto je připravené, když projde prostým testem. Když uděláte prstem do těsta důlek a ten se začne po oddělání prstu nafukovat, tak je test pozitivní.
 
 6. Předehřejeme troubu na 250°C. Na dno trouby necháme rozpálit malý plech. Do trouby dáme předehřát plech pro chléb. Před vložením chleba musí být jak vše hodně rozpáleno (jako v peci). Na plech možno dát pečicí papír.
 
-7. Až je trouba připravená, dáme do ní rychle těsto. To vyklopíme přímo na plech, nyní švem pochopitelně *dolů*. Následně rychle na spodní malý rozpálený plech vylijeme hrnek vody, ta se začne prudce odpařovat, což chceme. Rychle zavřeme víko trouby a pečeme.
+7. Až je trouba připravená, dáme do ní rychle těsto. To vyklopíme přímo na plech, nyní švem pochopitelně **dolů**. Následně rychle na spodní malý rozpálený plech vylijeme hrnek vody, ta se začne prudce odpařovat, což chceme. Rychle zavřeme víko trouby a pečeme.
 
 8. Občas kontrolujeme chléb a můžeme špejlí vyzkoušet, jak je udělaný vevnitř.
 
