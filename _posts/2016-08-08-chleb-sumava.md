@@ -21,8 +21,8 @@ Dovolte, abych zde představil svůj velice jednoduchý a velice zjednodušený 
 Připravíme si ingredience na rozkvašení kvásku:
 
 * kvásek ve skleničce z ledničky,
-• 120 g **žitné** mouky,
-• 120 ml vody.
+* 120 g **žitné** mouky,
+* 120 ml vody.
 
 Všechny ingredience vložíme do zaklapávatelné dózy/mísy a důkladně promícháme lžičkou tak, aby v míse nezůstala žádná nezamíchaná mouka. Následně zaklapneme víčkem a dáme přes noc odpočívat na linku.
 
