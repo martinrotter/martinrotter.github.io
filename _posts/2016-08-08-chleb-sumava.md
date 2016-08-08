@@ -51,7 +51,7 @@ Nyní již k samotnému receptu:
 
 5. Necháme kynout asi 90 až 120 minut, podle teploty v místnosti a kvality těsta. Čím teplejší místnost, tím kratší kynutí. Těsto by mělo nakynout minimálně o polovinu, ideálně by mělo svůj objem zdvojnásobit. Těsto je připravené, když projde prostým testem. Když uděláte prstem do těsta důlek a ten se začne po oddělání prstu nafukovat, tak je test pozitivní.
 
-6. Předehřejeme troubu na 250°C. Na dno trouby necháme rozpálit malý plech. Do trouby dáme předehřát plech pro chléb. Před vložením chleba musí být jak vše hodně rozpáleno (jako v peci). Na plech možno dát pečicí papír.
+6. Předehřejeme troubu na 250°C. Na dno trouby necháme rozpálit malý plech. Do trouby dáme předehřát plech pro chléb. Před vložením chleba musí být jak vše hodně rozpáleno (jako v peci). Na plech možno dát pečicí papír. Pamatujte, že když se chléb dělá rychle a ve větší teplotě, tak jeho kůrka ve výsledku bude **tenčí**. Pokud se bude chleba dělat pomaleji, bude kůrka **tlustší**.
 
 7. Až je trouba připravená, dáme do ní rychle těsto. To vyklopíme přímo na plech, nyní švem pochopitelně **dolů**. Následně rychle na spodní malý rozpálený plech vylijeme hrnek vody, ta se začne prudce odpařovat, což chceme. Rychle zavřeme víko trouby a pečeme.
 
@@ -59,7 +59,7 @@ Nyní již k samotnému receptu:
 
 9. Hotovost chleba poznáme tak, že se na špejli nelepí žádné těsto. Chleba by měl v troubě opět zvětšit svůj objem.
 
-
+10. Jak je chléb hotový, tak jej vyklopíme na mřížku, je důležité, aby mohl chléb dýchat i zespod.
 
 
 
