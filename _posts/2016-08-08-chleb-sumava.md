@@ -18,6 +18,6 @@ Now one example of picture with thumbnail in pure markdown.
 
 
 
-[![Chléb Šumava]({{ page.imgfolder }}/1.jpg){: .image-border width="100px"}](#){: id="gall1"}
+[![Chléb Šumava]({{ page.imgfolder }}/1.jpg){: width="100px"}](#){: .image-border id="gall1"}
 
 {% include gallery.html id="gall1" %}
