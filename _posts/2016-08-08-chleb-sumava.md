@@ -16,6 +16,8 @@ Dovolte, abych zde představil svůj velice jednoduchý a velice zjednodušený 
 
 Now one example of picture with thumbnail in pure markdown.
 
-[![Chléb Šumava]({{ page.imgfolder }}/1.jpg){: .image-border width="100px"}](#){: .swipebox id="gall1"}
+
+
+<a id="gall1" href="#">two pictures</a>
 
 {% include gallery.html id="gall1" %}
