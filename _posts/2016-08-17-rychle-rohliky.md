@@ -2,7 +2,7 @@
 layout: post
 title: Jednoduché a rychlé rohlíky
 author: Martin Rotter
-date: 2016-08-017 06:30:00 +0200
+date: 2016-08-17 06:30:00 +0200
 category: food-cooking
 language: cs
 imgfolder: /assets/2016/08/rohliky
