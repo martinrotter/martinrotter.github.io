@@ -24,7 +24,7 @@ I can help you with:
 
 Some of my projects are:
 
-* [RSS Guard](https://bitbucket.org/skunkos/rssguard),
+* [RSS Guard](https://github.com/martinrotter/rssguard),
 * [Transka](https://github.com/martinrotter/transka),
 * [KIStyles](https://github.com/martinrotter/kistyles),
 * [Qonverter](https://github.com/martinrotter/qonverter).

@@ -1,9 +1,9 @@
 name: Martin Rotter
 email: rotter.martinos@gmail.com
-url: http://martinrotter.github.io
+url: https://martinrotter.github.io
 
 meta:
-  description: My personal website.
+  description: Programmer, OSS fan. You can find here my CV, contacts and of course some blog posts.
   author: Martin Rotter
 
 datetime_format: '%B %e, %Y %H:%M'
