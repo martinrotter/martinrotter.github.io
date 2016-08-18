@@ -49,7 +49,7 @@ Nyní již k samotnému receptu:
 
 4. Popřekládáné těsto dobře pomoučíme na bocích a na straně, kde není šev vzniklý překládáním. Následně těsto vložíme do ošatky ševem **nahoru** a přikryjeme ručníkem, aby těsto neokoralo.
 
-5. Necháme kynout asi 90 až 120 minut, podle teploty v místnosti a kvality těsta. Čím teplejší místnost, tím kratší kynutí. Těsto by mělo nakynout minimálně o polovinu, ideálně by mělo svůj objem zdvojnásobit. Těsto je připravené, když projde prostým testem. Když uděláte prstem do těsta důlek a ten se začne po oddělání prstu nafukovat, tak je test pozitivní.
+5. Necháme kynout asi 90 až 120 minut, podle teploty v místnosti a kvality těsta. Čím teplejší místnost, tím kratší kynutí. Těsto by mělo nakynout minimálně o polovinu, ideálně by mělo svůj objem zdvojnásobit. Těsto je připravené, když projde prstovým testem. Když uděláte prstem do těsta důlek a ten se začne po oddělání prstu nafukovat, tak je test pozitivní.
 
 6. Předehřejeme troubu na 250°C. Na dno trouby necháme rozpálit malý plech. Do trouby dáme předehřát plech pro chléb. Před vložením chleba musí být jak vše hodně rozpáleno (jako v peci). Na plech možno dát pečicí papír. Pamatujte, že když se chléb dělá rychle a ve větší teplotě, tak jeho kůrka ve výsledku bude **tenčí**. Pokud se bude chleba dělat pomaleji, bude kůrka **tlustší**.
 
