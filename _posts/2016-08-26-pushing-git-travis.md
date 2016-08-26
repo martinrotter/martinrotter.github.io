@@ -20,7 +20,7 @@ Now, you need to let Travis CI know about your access token:
 2. Add new environment variable, name it `GH_TOKEN` and set `<TOKEN>` as its value.
 3. Save your settings.
 
-Now, you need to write the actual script makes use of the token and does whatever you want with your custom Git repositories. Travis CI works via `travis.yml` configuration file, which is placed usually in the root folder of your project. This configuration file offers several sections where you can execute your scripts, depending in which phase of project building you want to do it.
+Now, you need to write the actual script which makes use of the token and does whatever you want to do with your custom Git repositories. Travis CI works via `travis.yml` configuration file, which is placed usually in the root folder of your project. This configuration file offers several sections where you can execute your scripts, depending in which phase of project building you want to do it.
 
 Let's suppose you want to perform some steps when your Travis CI build is successfull. In that case, add this to your `travis.yml` file:
 
