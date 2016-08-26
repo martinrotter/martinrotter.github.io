@@ -5,10 +5,15 @@ author: Martin Rotter
 date: 2016-08-26 09:00:00 +0200
 category: it-programming
 language: en
+imgfolder: /assets/2016/08/pushing-git-travis
+images:
+  - name: travis-mascot.png
 ---
 
 Sometimes you may need to clone some custom Git repository and use it when your application gets compiled on [Travis CI](https://travis-ci.org/). This simple tutorial will show you how to do it in a secure way.
 <!--more-->
+[![Travis mascot]({{ page.imgfolder }}/travis-mascot.png){: width="100px" }]({{ page.imgfolder }}/cicada.jpg){: .swipebox .image-border}
+
 Let's suppose that your Git repositories, you want to work with, are stored on GitHub. You need to setup new personal access token on GitHub:
 
 1. Go to your GitHub user settings and select section "Personal access tokens".
