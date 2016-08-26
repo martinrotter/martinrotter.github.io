@@ -42,3 +42,5 @@ after_success:
 ```
 
 The key thing is that you use your personal access token via `GH_TOKEN` environment variable. It is visible in `git clone` step.
+
+You can see real-world example [here](https://github.com/martinrotter/rssguard/tree/dev). The project uses Travis CI to compile development builds. Then those builsd are uploaded via `curl` to custom web service and the link to uploaded file is then inserted into another custom GitHub repository.
