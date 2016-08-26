@@ -25,20 +25,20 @@ Now, you need to write the actual script which makes use of the token and does w
 Let's suppose you want to perform some steps when your Travis CI build is successfull. In that case, add this to your `travis.yml` file:
 
 ```bash
-# Set your identification.
-git config --global user.email "<YOUR_GITHUB_EMAIL>"
-git config --global user.name "<YOUR_GITHUB_USERNAME>"
-
-# Clone some repository you want into "repo" subfolder.
-git clone https://<YOUR_GITHUB_USERNAME>:${GH_TOKEN}@github.com/<REPO>.git ./repo
-
-# Now, perform your custom actions. Custom repository is cloned int "repo" subfolder of PWD.
-
-
-# After your actions are done, you might want to commit and push your changes.
-cd repo
-git commit -m "Actions done."
-git push
+after_success:
+ - # Set your identification.
+ - git config --global user.email "<YOUR_GITHUB_EMAIL>"
+ - git config --global user.name "<YOUR_GITHUB_USERNAME>"
+ - 
+ - # Clone some repository you want into "repo" subfolder.
+ - git clone https://<YOUR_GITHUB_USERNAME>:${GH_TOKEN}@github.com/<REPO>.git ./repo
+ - 
+ - # Now, perform your custom actions. Custom repository is cloned int "repo" subfolder of PWD.
+ - 
+ - # After your actions are done, you might want to commit and push your changes.
+ - cd repo
+ - git commit -m "Actions done."
+ - git push
 ```
 
 The key thing is that you use your personal access token via `GH_TOKEN` environment variable. It is visible in `git clone` step.
