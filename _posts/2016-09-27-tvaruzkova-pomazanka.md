@@ -11,6 +11,7 @@ Dovolte, abych zde představil jednoduchý recept na tvarůžkovou pomazánku.
 <!--more-->
 
 Na tvarůžkovou pomazánku budeme potřebovat:
+
 * 100 ml zakysané smetany,
 * 40 - 80 g másla,
 * kmín (klidně drcený),
