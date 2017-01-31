@@ -6,7 +6,7 @@ meta:
   description: Programmer, OSS fan. You can find here my CV, contacts and of course some blog posts.
   author: Martin Rotter
 
-datetime_format: '%B %e, %Y %H:%M'
+datetime_format: '%B %e, %Y at %H:%M'
 exclude: ['.gitignore', 'Gemfile', 'Gemfile.lock']
 timezone: Europe/Prague
 permalink: pretty
