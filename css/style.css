@@ -51,6 +51,8 @@ body {
 }
 
 .post-date {
+  position: relative;
+  left: 3px;
 }
 
 @media (min-width: 992px) {
