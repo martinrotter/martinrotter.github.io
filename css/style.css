@@ -48,13 +48,9 @@ body {
 }
 
 .post-language {
-  position: relative;
-  top: -1px;
 }
 
 .post-date {
-  position: relative;
-  left: 5px;
 }
 
 @media (min-width: 992px) {
