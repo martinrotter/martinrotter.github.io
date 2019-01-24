@@ -8,10 +8,10 @@ layout: default
 
 <div>
   {% for category in site.data.categories %}
-    {% assign include.url = "#" | append: category.slug %}
-    {% assign include.text = category.name %}
+    {% capture inclurl %}#{{ category.slug }}{% endcapture %}
+    {% capture incltext %}{{ category.name }}{% endcapture %}
     
-    {% include button.html class="btn btn-primary btn-category" icon="glyphicon-tag" %}
+    {% include button.html class="btn btn-primary btn-category" icon="glyphicon-tag" url=inclurl text=incltext %}
   {% endfor %}
 </div>
 
