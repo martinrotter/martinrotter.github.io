@@ -18,12 +18,13 @@ body {
   background-color: #4e5d6c;
 }
 
-.content {
-  padding-bottom: 70px;
-}
-
 .footer .container  {
   margin-top: 6px;
+  background-color: #4e5d6c;
+}
+
+.content {
+  padding-bottom: 70px;
 }
 
 .navbar-contact {
