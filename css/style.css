@@ -12,19 +12,14 @@ body {
   position: absolute;
   bottom: 0;
   width: 100%;
-  /* Set the fixed height of the footer here */
-  height: 32px;
   color: #ebebeb;
+  margin-top: 40px;
   background-color: #4e5d6c;
 }
 
 .footer .container  {
-  margin-top: 6px;
+  margin: 6px;
   background-color: #4e5d6c;
-}
-
-.content {
-  padding-bottom: 70px;
 }
 
 .navbar-contact {
