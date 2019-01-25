@@ -18,8 +18,12 @@ body {
 }
 
 .footer .container  {
-  margin: 6px;
+  margin: 6px auto;
   background-color: #4e5d6c;
+}
+
+.content {
+  padding-bottom: 70px;
 }
 
 .navbar-contact {
