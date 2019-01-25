@@ -320,10 +320,10 @@ h2,h3{page-break-after:avoid}
 .glyphicon-menu-down:before{content:"\e259"}
 .glyphicon-menu-up:before{content:"\e260"}
 *,:after,:before{-webkit-box-sizing:border-box;-moz-box-sizing:border-box;box-sizing:border-box}
-body{margin:0;font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:15px;line-height:1.42857143;color:#ebebeb}
+body{margin:0;font-family:Ubuntu,"Helvetica Neue",Helvetica,Arial,sans-serif;font-size:15px;line-height:1.42857143;color:#ebebeb}
 button,input,select,textarea{font-family:inherit;font-size:inherit;line-height:inherit}
-a{color:#21a4d1;text-decoration:none}
-a:focus,a:hover{color:#21a4d1;text-decoration:underline}
+a{color:#39b5e0;text-decoration:none}
+a:focus,a:hover{color:#39b5e0;text-decoration:underline}
 a:focus{outline:-webkit-focus-ring-color auto 5px;outline-offset:-2px}
 figure{margin:0}
 .carousel-inner>.item>a>img,.carousel-inner>.item>img,.img-responsive,.thumbnail a>img,.thumbnail>img{display:block;max-width:100%;height:auto}
@@ -800,10 +800,10 @@ a.btn.disabled,fieldset[disabled] a.btn{pointer-events:none}
 .btn-danger.active.focus,.btn-danger.active:focus,.btn-danger.active:hover,.btn-danger:active.focus,.btn-danger:active:focus,.btn-danger:active:hover,.open>.dropdown-toggle.btn-danger.focus,.open>.dropdown-toggle.btn-danger:focus,.open>.dropdown-toggle.btn-danger:hover{color:#fff;background-color:#ac2925;border-color:transparent}
 .btn-danger.disabled.focus,.btn-danger.disabled:focus,.btn-danger.disabled:hover,.btn-danger[disabled].focus,.btn-danger[disabled]:focus,.btn-danger[disabled]:hover,fieldset[disabled] .btn-danger.focus,fieldset[disabled] .btn-danger:focus,fieldset[disabled] .btn-danger:hover{background-color:#d9534f;border-color:transparent}
 .btn-danger .badge{color:#d9534f;background-color:#fff}
-.btn-link{font-weight:400;color:#21a4d1;border-radius:0}
+.btn-link{font-weight:400;color:#39b5e0;border-radius:0}
 .btn-link,.btn-link.active,.btn-link:active,.btn-link[disabled],fieldset[disabled] .btn-link{background-color:transparent;-webkit-box-shadow:none;box-shadow:none}
 .btn-link,.btn-link:active,.btn-link:focus,.btn-link:hover{border-color:transparent}
-.btn-link:focus,.btn-link:hover{color:#21a4d1;text-decoration:underline;background-color:transparent}
+.btn-link:focus,.btn-link:hover{color:#39b5e0;text-decoration:underline;background-color:transparent}
 .btn-link[disabled]:focus,.btn-link[disabled]:hover,fieldset[disabled] .btn-link:focus,fieldset[disabled] .btn-link:hover{color:#4e5d6c;text-decoration:none}
 .btn-group-lg>.btn,.btn-lg{padding:12px 24px;font-size:19px;line-height:1.3333333;border-radius:0}
 .btn-group-sm>.btn,.btn-sm{padding:5px 10px;font-size:12px;line-height:1.5;border-radius:0}
@@ -1089,7 +1089,7 @@ a.label:focus,a.label:hover{color:#fff;text-decoration:none;cursor:pointer}
 .btn .badge{position:relative;top:-1px}
 .btn-group-xs>.btn .badge,.btn-xs .badge{top:0;padding:1px 5px}
 a.badge:focus,a.badge:hover{color:#fff;text-decoration:none;cursor:pointer}
-.list-group-item.active>.badge,.nav-pills>.active>a>.badge{color:#21a4d1;background-color:#fff}
+.list-group-item.active>.badge,.nav-pills>.active>a>.badge{color:#39b5e0;background-color:#fff}
 .jumbotron,.jumbotron .h1,.jumbotron h1{color:inherit}
 .list-group-item>.badge+.badge{margin-right:5px}
 .nav-pills>li>a>.badge{margin-left:3px}
@@ -1106,7 +1106,7 @@ a.badge:focus,a.badge:hover{color:#fff;text-decoration:none;cursor:pointer}
 }
 .thumbnail{padding:4px;line-height:1.42857143;border-radius:0;-webkit-transition:border .2s ease-in-out;-o-transition:border .2s ease-in-out;transition:border .2s ease-in-out}
 .thumbnail a>img,.thumbnail>img{margin-right:auto;margin-left:auto}
-a.thumbnail.active,a.thumbnail:focus,a.thumbnail:hover{border-color:#21a4d1}
+a.thumbnail.active,a.thumbnail:focus,a.thumbnail:hover{border-color:#39b5e0}
 .thumbnail .caption{padding:9px;color:#ebebeb}
 .alert{padding:15px;border:1px solid transparent;border-radius:0}
 .alert-danger,.alert-info,.alert-success,.alert-warning{border-color:transparent}
@@ -1246,7 +1246,7 @@ a.list-group-item-danger.active,a.list-group-item-danger.active:focus,a.list-gro
 .well-lg{padding:24px;border-radius:0}
 .well-sm{padding:9px;border-radius:0}
 .close{float:right;font-size:22.5px;line-height:1;color:#ebebeb;text-shadow:none;filter:alpha(opacity=20)}
-.popover,.tooltip{text-decoration:none;font-family:Lato,"Helvetica Neue",Helvetica,Arial,sans-serif;font-style:normal;font-weight:400;line-height:1.42857143;line-break:auto;text-shadow:none;letter-spacing:normal;word-break:normal;word-wrap:normal}
+.popover,.tooltip{text-decoration:none;font-family:Ubuntu,"Helvetica Neue",Helvetica,Arial,sans-serif;font-style:normal;font-weight:400;line-height:1.42857143;line-break:auto;text-shadow:none;letter-spacing:normal;word-break:normal;word-wrap:normal}
 .close:focus,.close:hover{color:#ebebeb;text-decoration:none;cursor:pointer;filter:alpha(opacity=50)}
 button.close{padding:0;cursor:pointer;background:0 0;border:0;-webkit-appearance:none;appearance:none}
 .modal{position:fixed;top:0;right:0;bottom:0;left:0;z-index:1050;display:none;-webkit-overflow-scrolling:touch;outline:0}
@@ -1415,12 +1415,18 @@ td.visible-print,th.visible-print{display:table-cell!important}
 @media print{.visible-print-inline-block{display:inline-block!important}
 .hidden-print{display:none!important}
 }
-@font-face{font-family:Lato;font-style:normal;font-weight:300;src:local('Lato Light'),local('Lato-Light'),url(https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh7USSwaPGQ3q5d0N7w.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}
-@font-face{font-family:Lato;font-style:normal;font-weight:300;src:local('Lato Light'),local('Lato-Light'),url(https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh7USSwiPGQ3q5d0.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
-@font-face{font-family:Lato;font-style:normal;font-weight:400;src:local('Lato Regular'),local('Lato-Regular'),url(https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjxAwXiWtFCfQ7A.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}
-@font-face{font-family:Lato;font-style:normal;font-weight:400;src:local('Lato Regular'),local('Lato-Regular'),url(https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wXiWtFCc.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
-@font-face{font-family:Lato;font-style:normal;font-weight:700;src:local('Lato Bold'),local('Lato-Bold'),url(https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwaPGQ3q5d0N7w.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}
-@font-face{font-family:Lato;font-style:normal;font-weight:700;src:local('Lato Bold'),local('Lato-Bold'),url(https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwiPGQ3q5d0.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:Lato;font-style:normal;font-weight:300;src:local('Lato Light'),local('Lato-Light'),url(https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh7USSwaPGR_p.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:Lato;font-style:normal;font-weight:300;src:local('Lato Light'),local('Lato-Light'),url(https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh7USSwiPGQ.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:Lato;font-style:normal;font-weight:400;src:local('Lato Regular'),local('Lato-Regular'),url(https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjxAwXjeu.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:Lato;font-style:normal;font-weight:400;src:local('Lato Regular'),local('Lato-Regular'),url(https://fonts.gstatic.com/s/lato/v14/S6uyw4BMUTPHjx4wXg.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:Lato;font-style:normal;font-weight:700;src:local('Lato Bold'),local('Lato-Bold'),url(https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwaPGR_p.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:Lato;font-style:normal;font-weight:700;src:local('Lato Bold'),local('Lato-Bold'),url(https://fonts.gstatic.com/s/lato/v14/S6u9w4BMUTPHh6UVSwiPGQ.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
+@font-face{font-family:Ubuntu;font-style:normal;font-weight:400;src:local('Ubuntu Regular'),local('Ubuntu-Regular'),url(https://fonts.gstatic.com/s/ubuntu/v12/4iCs6KVjbNBYlgoKcg72j00.woff2) format('woff2');unicode-range:U+0460-052F,U+1C80-1C88,U+20B4,U+2DE0-2DFF,U+A640-A69F,U+FE2E-FE2F}
+@font-face{font-family:Ubuntu;font-style:normal;font-weight:400;src:local('Ubuntu Regular'),local('Ubuntu-Regular'),url(https://fonts.gstatic.com/s/ubuntu/v12/4iCs6KVjbNBYlgoKew72j00.woff2) format('woff2');unicode-range:U+0400-045F,U+0490-0491,U+04B0-04B1,U+2116}
+@font-face{font-family:Ubuntu;font-style:normal;font-weight:400;src:local('Ubuntu Regular'),local('Ubuntu-Regular'),url(https://fonts.gstatic.com/s/ubuntu/v12/4iCs6KVjbNBYlgoKcw72j00.woff2) format('woff2');unicode-range:U+1F00-1FFF}
+@font-face{font-family:Ubuntu;font-style:normal;font-weight:400;src:local('Ubuntu Regular'),local('Ubuntu-Regular'),url(https://fonts.gstatic.com/s/ubuntu/v12/4iCs6KVjbNBYlgoKfA72j00.woff2) format('woff2');unicode-range:U+0370-03FF}
+@font-face{font-family:Ubuntu;font-style:normal;font-weight:400;src:local('Ubuntu Regular'),local('Ubuntu-Regular'),url(https://fonts.gstatic.com/s/ubuntu/v12/4iCs6KVjbNBYlgoKcQ72j00.woff2) format('woff2');unicode-range:U+0100-024F,U+0259,U+1E00-1EFF,U+2020,U+20A0-20AB,U+20AD-20CF,U+2113,U+2C60-2C7F,U+A720-A7FF}
+@font-face{font-family:Ubuntu;font-style:normal;font-weight:400;src:local('Ubuntu Regular'),local('Ubuntu-Regular'),url(https://fonts.gstatic.com/s/ubuntu/v12/4iCs6KVjbNBYlgoKfw72.woff2) format('woff2');unicode-range:U+0000-00FF,U+0131,U+0152-0153,U+02BB-02BC,U+02C6,U+02DA,U+02DC,U+2000-206F,U+2074,U+20AC,U+2122,U+2191,U+2193,U+2212,U+2215,U+FEFF,U+FFFD}
 .navbar{-webkit-box-shadow:none;box-shadow:none;border:none;font-size:12px}
 .navbar-default .badge{background-color:#fff;color:#4e5d6c}
 .navbar-inverse .badge{background-color:#fff;color:#1b85a9}
