@@ -24,7 +24,7 @@ Some time ago, I moved to a new house, bought 4K-capable SDR "non-smart" display
 
 ## Packaging & Shipment
 
-I order my package in the middle of January, 2019, when it was re-stocked and sale for discount price was started. Process of ordering the Vero was smooth.
+I ordered my package in the middle of January, 2019, when it was re-stocked and sale for discount price was started. Process of ordering of the Vero was smooth.
 
 Some problems arose as I expected them to ship the Vero fast, as is written on their [website](https://osmc.tv/) where they claim the shipping is "Free and fast". Unfortunately, it turned out that the interest in the sale was massive and dispatch of Vero was rather slow and it actually took them several days to send the item.
 
@@ -60,7 +60,7 @@ Only possible thing the remote lacks is embedded mini keyboard, but internet is 
 
 ## Software equipment
 
-While Vero is almost perfect regarding its HW, SW side of things have some drawbacks.
+While Vero is almost perfect regarding its HW, SW side of things has some drawbacks.
 
 When you power one your Vero for the first time, then you are greeted with nice and fancy wizard which will guide you throught initial Vero setup. Wizard itself did its job and everything was flawless. Well, until first "sad smile BSOD" appeared. I do not exactly remember which page of wizard it happened on, but I think it was on "Network setup" page. BSOD screen went away after a few seconds and main Kodi screen displayed on screen.
 
