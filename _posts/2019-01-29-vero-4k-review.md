@@ -85,7 +85,7 @@ So not `sudo apt-get upgrade` as all Linux geeks might expect and this is really
 
 That said, I would understand why they recommend using `dist-upgrade` but do not get why they warn users of supposedly safer `upgrade`. One possible explanation could be that they actually want users to avoid doing ["partial upgrades"](https://wiki.archlinux.org/index.php/System_maintenance#Partial_upgrades_are_unsupported).
 
-Other thing is the when playing with menus/options/switches, Kodi crashed several times within and hour and presented BSOD to me. If these issues are still a thing when I move the Vero to my new house, I will file a bug reports and try to investigate these crashes.
+Other thing is that when I was playing with menus/options/switches, Kodi crashed several times within and hour and presented BSOD to me. If these issues are still a thing when I move the Vero to my new house, I will file a bug reports and try to investigate these crashes.
 
 ## Video playback
 
