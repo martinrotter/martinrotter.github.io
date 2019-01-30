@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Vero 4K + review
-published: no
 author: Martin Rotter
 date: 2019-01-30 08:00:00 +0200
 category: it-programming
