@@ -1,5 +1,5 @@
 {% if include.icon == null %}
-<a href="{{ include.url }}" class="btn {{ include.class }}" role="button">{{ include.text }}</a>
+<a href="{{ include.url }}" class="btn {{ include.class }}" role="button" aria-label="{{ include.text }}">{{ include.text }}</a>
 {% else %}
-<a href="{{ include.url }}" class="btn {{ include.class }}" role="button"><span class="glyphicon {{ include.icon }}" aria-hidden="true"></span> {{ include.text }}</a>
+<a href="{{ include.url }}" class="btn {{ include.class }}" role="button" aria-label="{{ include.text }}"><span class="glyphicon {{ include.icon }}"></span> {{ include.text }}</a>
 {% endif %}
