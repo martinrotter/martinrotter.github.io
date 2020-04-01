@@ -46,6 +46,8 @@ Do nádoby s kváskem přidáme tyto suroviny:
 * celý či drcený kmín, jedná hrst či dle chuti,
 * pár zrníček fenyklu.
 
+Pokud některé druhy mouk nemáte, tak je prostě nahraďte klasickou pšeničnou hladkou, důležité je dodržet jen celkovou hmotnost.
+
 V této fázi **NE**přidávejte do nádoby žádné agresivní suroviny jako česnek, chilli, sůl, kari atp.
 
 Promíchejte těsto rukama či robotem, aby neobsahovalo žádné suché části. Přikryjte nádobu víčkem. Poté 30 minut odpočívat zakryté v nádobě na lince.
@@ -54,6 +56,8 @@ Po uplynutí této doby přidejte do nádoby tyto suroviny:
 * pár lžic extra virgin olivového oleje (pokud nemáte, dejte klidně sádlo),
 * 9 g soli,
 * dodatečné koření (na jemno nasekaný česnek, chilli, strouhaný sýr - Gran Moravia, Parmiggiano.
+
+Mějte na paměti, že přidání či odebrání několika gramů vody má za důsledek viditelně řidší či hustší těsto.
 
 Proveďte důkladné prohnětení těsta robotem, několik minut. Těsto bude vláčnější a vláčnější. Poté 30 minut odpočívat zakryté v nádobě na lince.
 
