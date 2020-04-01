@@ -71,4 +71,6 @@ Vyndejte hrnec a překlopte do něj těsto z ošatky švem **dolů**. Vrchní č
 
 Po tomto čase odstraňte pokličku, a dopékejte na teplotu cca 190-220 stupňů Celsia až do doby, kdy má kůrka požadovanou barvu, cca dalších 10-20 minut. Celková doba pečení je tedy 35-45 minut, průměrně tak 38-40 dle zkušeností.
 
+Poté chléb vyndejte z trouby a dejte na mřížku, aby nenavlhnul odspodu, nechte vychladnout.
+
 {% include gallery.html id="gall1" %}
