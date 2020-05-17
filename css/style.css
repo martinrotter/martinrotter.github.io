@@ -8,6 +8,10 @@ body {
   margin-bottom: 32px;
 }
 
+p {
+  margin-top: 20px !important;
+}
+
 .footer {
   position: absolute;
   bottom: 0;
