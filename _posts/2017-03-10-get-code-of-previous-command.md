@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to get result code AND output of command in Bash.
+title: How to get result code AND output of command in Bash
 author: Martin Rotter
 date: 2017-03-10 08:00:00 +0200
 category: it-programming
