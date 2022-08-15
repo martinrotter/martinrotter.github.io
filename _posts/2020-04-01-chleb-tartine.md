@@ -20,10 +20,10 @@ Dovolte, abych zde představil svůj jednoduchý recept na chléb Tartine. Chleb
 Připravíme si ingredience na rozkvašení kvásku:
 
 * kvásek ve skleničce z ledničky,
-* 85 g **žitné** mouky,
-* 85 g studené vody.
+* 100 g **žitné** mouky,
+* 100 g studené vody.
 
-Všechny ingredience vložíme do zaklapávatelné dózy/mísy a důkladně promícháme lžičkou tak, aby v míse nezůstala žádná nezamíchaná mouka. Následně zaklapneme víčkem a dáme přes noc odpočívat na linku. Důležité je, aby celková hmotnost přidané mouky a vody byla vyšší než hmotnost původního kvásku. Pokud tedy máte kvásku před rozkvašením hodně, tak je dobré část odebrat a pro rozkvašení použít tak 2 či 3 lžíce původního kvásku.
+Všechny ingredience vložíme do zaklapávatelné dózy/mísy a důkladně promícháme lžičkou tak, aby v míse nezůstala žádná nezamíchaná mouka. Následně zaklapneme víčkem a dáme přes noc odpočívat na linku. Pokud máme kvásku z lednice hodně, tak většinu zahodím a k rozmnožení použijeme tak 3 lžíce původního kvásku.
 
 Kvásek necháme kvasit v zakryté dóze položené na lince do dalšího dne (9-18 hodin).
 
