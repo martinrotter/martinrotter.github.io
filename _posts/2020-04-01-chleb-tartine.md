@@ -67,9 +67,9 @@ Doporučuji na YouTube vyhledat videa pro "hnětení těsta", kde se dá postup 
 
 ### Druhý den (ráno, doba přípravy 5 minut)
 
-Další den si připravte ošatku (doporučuji pedigovou a žádnou jinou) pro kynutí chleba, polejte její povrch vodou a pak vodu důkladně vylijte a pak vysypte ošatku moukou, aby se těsto pak nelepilo. Nejlepší na vysypávání čehokoliv je **rýžová** mouka a nic jiného - nikdy nelepí. Italové na toto používají semolinovou mouku, nicméně dokonce i v Neapoli už je rýžová mouka velice moderní a používají ji tam na vysypávání při přípravě pizzy.
+Další den si připravte ošatku (doporučuji pedigovou a žádnou jinou) pro kynutí chleba a vysypte ji moukou, aby se těsto pak nelepilo. Přebytečnou mouku z ošatky vyklepejte. Není třeba ošatku před vysypáváním kropit vodou. Na ošatce se udrží jen trocha mouky, ale to **stačí**. Nejlepší na vysypávání čehokoliv je **rýžová** mouka a nic jiného - nikdy nelepí. Italové na toto používají semolinovou mouku, nicméně dokonce i v Neapoli už je rýžová mouka velice moderní a některé tamní podniky ji používají na vysypávání při přípravě pizzy.
 
-Pomoučete i stůl a vyklopte na něj ledové těsto z lednice. S těstem se dobře pracuje, když je studené! Těsto na stole párkrát přeložte a vložte do ošatky "švem" nahoru. Přikryjte ošatku čistou utěrkou a nechte 60-90 minut na lince, pak dejte do lednice.
+Ledové těsto vyndejte z lednice a vyklopte na čistý povrch. S těstem se dobře pracuje, když je studené! Těsto na stole párkrát přeložte a vytvarujte požadovaný kulatý či podlouhlý tvar a vložte do ošatky "švem" nahoru. Přikryjte ošatku čistou utěrkou a nechte 60-120 minut na lince, pak dejte do lednice.
 
 ### Druhý den (k večeru, doba přípravy 40 minut, z toho aktivní práce 5 minut)
 
@@ -77,7 +77,7 @@ Po cca 8-12 hodinách rozpalte troubu na maximum - 250 až 300 stupňů Celsia, 
 
 Vyndejte hrnec a dejte dovnitř na dno pečící papír kruhového tvaru a překlopte do něj těsto z ošatky švem **dolů**. Vrchní část těsta můžete ostrým nožem naříznout v několika směrech a následně jej rozprašovačem s vodou pořádně poprašte. Zaklopte pokličkou a takto zaklopený vařící hrnec dejte do trouby zpět a nechte 20 minut péct.
 
-Po tomto čase odstraňte pokličku, a dopékejte na teplotu cca 200-245 stupňů Celsia (teplotu snižujte postupně po pár minutách) až do doby, kdy má kůrka požadovanou barvu, cca dalších 15-20 minut. Celková doba pečení je tedy 35-45 minut, průměrně tak 40 dle zkušeností, záleží na troubě.
+Po tomto čase odstraňte pokličku, a dopékejte na teplotu cca 200-250 stupňů Celsia (teplotu snižujte postupně po pár minutách) až do doby, kdy má kůrka požadovanou barvu, cca dalších 15-20 minut. Celková doba pečení je tedy 35-45 minut, průměrně tak 40 dle zkušeností, záleží na troubě.
 
 Poté chléb vyndejte z trouby a dejte na mřížku, aby nenavlhnul odspodu, nechte vychladnout.
 
